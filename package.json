@@ -2,7 +2,7 @@
 	"name": "random-number-api",
 	"private": true,
 	"scripts": {
-		"start": "node app.js"
+		"start": "node app-api-versioning.js"
 	},
 	"dependencies": {
 		"express": "^4.17.1"
