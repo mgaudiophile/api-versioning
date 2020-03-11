@@ -1,7 +1,9 @@
 # api-versioning-example
 
 cd into api-versioning
+
 run npm install
+
 run npm start
 
 open browser and test versions with urls:
